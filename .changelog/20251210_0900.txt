@@ -1,0 +1,3 @@
+type: fix
+scope: engine
+description: Fix condition evaluation for nested resource policies with wildcard actions
