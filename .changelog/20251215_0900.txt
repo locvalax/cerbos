@@ -1,0 +1,2 @@
+type: fix
+description: Fix race condition in policy store cache invalidation when multiple goroutines update the same policy simultaneously
