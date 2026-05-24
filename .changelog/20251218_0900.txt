@@ -1,0 +1,2 @@
+improvement
+Optimize policy evaluation cache invalidation to reduce unnecessary reloads on partial store updates
