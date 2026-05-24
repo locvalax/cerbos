@@ -1,0 +1,2 @@
+improvement
+Add support for wildcard matching in resource policy conditions
