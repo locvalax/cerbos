@@ -1,0 +1,2 @@
+fix: correct edge case in policy evaluation when resource attributes are nil
+Fixes an issue where evaluating policies with missing resource attributes would cause a nil pointer dereference.
