@@ -1,0 +1,2 @@
+feat: add support for wildcard resource matching in policy rules
+This allows policies to match resources using glob-style patterns.
