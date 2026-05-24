@@ -1,0 +1,2 @@
+fix: correct policy evaluation order for derived roles
+Fixes an issue where derived roles were evaluated after resource policies, causing incorrect permission resolution in edge cases.
