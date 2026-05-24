@@ -1,0 +1,2 @@
+fix: correct policy evaluation order for overlapping resource rules
+Fixes an issue where overlapping resource rules with different conditions could produce inconsistent authorization results.
