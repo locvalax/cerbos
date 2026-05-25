@@ -1,0 +1,2 @@
+fix: resolve race condition in policy store cache invalidation
+Improve concurrent access handling when multiple goroutines attempt to invalidate cache entries simultaneously
