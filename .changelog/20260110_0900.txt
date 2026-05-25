@@ -1,0 +1,2 @@
+fix: resolve race condition in policy cache invalidation
+Improve concurrent access handling in the policy store cache layer
