@@ -1,0 +1,2 @@
+fix: resolve race condition in policy store cache invalidation
+Fixes concurrent map writes when multiple policies are updated simultaneously.
