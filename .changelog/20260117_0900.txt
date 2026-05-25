@@ -1,0 +1,2 @@
+fix: correct policy evaluation edge case when resource attributes are nil
+Resolves an issue where nil resource attributes caused a panic during policy evaluation.
