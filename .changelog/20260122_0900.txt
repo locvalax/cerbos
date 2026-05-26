@@ -1,0 +1,2 @@
+fix: correct policy evaluation order for derived roles with wildcard conditions
+Fixes an edge case where wildcard conditions in derived roles were evaluated before more specific conditions, leading to incorrect DENY outcomes.
