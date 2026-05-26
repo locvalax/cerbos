@@ -1,0 +1,2 @@
+fix: resolve race condition in policy store concurrent reads
+Improve thread safety when multiple goroutines access the policy cache simultaneously
